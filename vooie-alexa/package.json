@@ -1,0 +1,11 @@
+{
+  "name": "vooie-alexa",
+  "version": "1.0.0",
+  "description": "An opionated framework for developing Alexa applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raymond Mauge",
+  "license": "MIT"
+}
