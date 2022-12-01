@@ -4,7 +4,7 @@
             "es2022"
         ],
         "baseUrl": "src",
-        "outDir": "dist",
+        "outDir": "lambda",
         "sourceMap": true,
         "experimentalDecorators": true,
         "module": "commonjs",

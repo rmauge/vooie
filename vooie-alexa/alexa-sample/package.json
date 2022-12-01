@@ -7,7 +7,7 @@
     "precompile": "yarn tsc --build --clean",
     "compile": "yarn tsc --build",
     "prestart": "yarn compile",
-    "start": "node dist/index.js",
+    "start": "node lambda/index.js",
     "dev": "node-dev src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
